@@ -1,0 +1,5 @@
+#Remove # for variables you want to use
+#VPN_CONFIG=
+#VPN_REMOTE=
+#VPN_PORT=
+#VPN_PROTOCOL=
